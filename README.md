@@ -51,4 +51,4 @@ Interactive dashboards were created in **Power BI**:
 ## 🚀 How to Use
 1. Clone this repo:
    ```bash
-   git clone https://github.com/MaameAbaArhin/video-game-sales-analysis.git
+   git clone https://github.com/MaameAbaArhin/video-games-sales-analysis.git
